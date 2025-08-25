@@ -55,7 +55,7 @@ Course Title | Course Number | Instructor Name
 ## I Recommend
 
 ### Mariah The Scientist
-Mariah The Scientist is an R&B singer best known for her song "Burning Blue". Her Upcoming Album HEARTS SOLD SEPARATELY features fellow R&B songstress Kali Uchis.
+Mariah The Scientist is an R&B singer best known for her song "Burning Blue". Her Upcoming Album *HEARTS SOLD SEPARATELY* features fellow R&B songstress Kali Uchis.
 
 **_Songs to listen too_: **
 
