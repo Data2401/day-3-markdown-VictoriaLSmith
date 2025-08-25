@@ -1,7 +1,7 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
-date: "Data 2401"
+author: "Lindsey Smith"
+date: "`r Sys.Date()`"
 output: html_document
 ---
 
@@ -35,3 +35,31 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
  
+# Your Work Here
+
+## Wise Words
+> A Woman without a man is a like a fish without a bicycle -Gloria Steiman
+
+
+[link] https://quoteinvestigator.com/2016/10/18/fish-bicycle/
+
+## My Semester
+
+Course Title | Course Number | Instructor Name
+------------ |---------------| --------------
+*Data Science 1* | **Data 2405** | Katherine Shoemaker
+*Data Structures and Algorithm*| **CS 2311**   | John Hendrson
+*Priciples of Economics* | **ECO 2301**  | Shuang Xu
+*Texas Government* | **POLS 2306** | David Branham
+
+## I Recommend
+
+### Mariah The Scientist
+Mariah The Scientist is an R&B singer best known for her song "Burning Blue". Her Upcoming Album HEARTS SOLD SEPARATELY features fellow R&B songstress Kali Uchis.
+
+**_Songs to listen too_: **
+
+* Beetlejuice
+* Burning Blue
+* Is it a Crime
+* Spread Thin
